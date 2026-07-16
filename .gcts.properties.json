@@ -1,0 +1,13 @@
+{
+  "name": "zrapd",
+  "version": "1.0.0",
+  "description": "ZRAPD",
+  "repositoryLayout": {
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/B6758C66DC5F1FD184917158FC046B86_0",
+    "format": "json",
+    "formatVersion": "6",
+    "keepClient": "false",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true"
+  }
+}

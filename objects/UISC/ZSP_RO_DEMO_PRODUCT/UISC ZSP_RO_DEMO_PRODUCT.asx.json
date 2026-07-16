@@ -1,0 +1,47 @@
+[
+ {
+  "table":"/UI2/STHEADC",
+  "data":
+  [
+   {
+    "MANDT":"___",
+    "ID":"ZSP_RO_DEMO_PRODUCT",
+    "MASTER_SPACE_ID":"",
+    "CREATED_BY":"SAP_CUSTOMER",
+    "CREATED_ON":"+020260223122807",
+    "MODIFIED_BY":"SAP_CUSTOMER",
+    "MODIFIED_ON":"+020260223122807",
+    "MASTER_LANGU":"E",
+    "SORT_PRIORITY":"0",
+    "DEVCLASS":"",
+    "MERGE_ID":""
+   }
+  ]
+ },
+ {
+  "table":"/UI2/STHEADCT",
+  "data":
+  [
+   {
+    "MANDT":"___",
+    "LANGU":"E",
+    "ID":"ZSP_RO_DEMO_PRODUCT",
+    "TITLE":"Demo Products",
+    "DESCRIPTION":"Demo Products"
+   }
+  ]
+ },
+ {
+  "table":"/UI2/STPGAC",
+  "data":
+  [
+   {
+    "MANDT":"___",
+    "ID":"ZSP_RO_DEMO_PRODUCT",
+    "PAGE_ID":"ZPG_RO_DEMO_PRODUCT",
+    "IDX":1,
+    "HIDDEN":""
+   }
+  ]
+ }
+]

@@ -1,0 +1,1 @@
+CLASS zbp_ro_r_products DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zro_r_products.
